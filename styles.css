@@ -1,0 +1,17 @@
+.btn-container{
+    border: 1px solid black;
+    margin: 200px auto;
+}
+
+.btn{
+    padding: 30px 55px;
+    margin: 90px auto;
+    justify-content: center;
+    display: block;
+    border: 1px solid grey;
+}
+
+.btn:hover{
+    cursor: pointer;
+    border-radius: 10px;
+}
